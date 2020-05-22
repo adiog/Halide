@@ -44,7 +44,6 @@ typedef unsigned int qurt_thread_t;
 
 // clang-format on
 
-
 /** Thread attributes */
 typedef struct _qurt_thread_attr {
     /** @cond */
